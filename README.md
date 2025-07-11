@@ -126,6 +126,4 @@ I'm passionate about creating exceptional user experiences through thoughtful de
 
 *"Bridging design and development to create digital experiences that matter"*
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
-
 </div>
