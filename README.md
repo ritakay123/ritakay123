@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rita Hua
-
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=console.log(%22Hi+%2C+I'm+Rita%22))
   
 ### 🎨 Frontend Engineer & UI/UX Designer | Angular & TypeScript Specialist
 
